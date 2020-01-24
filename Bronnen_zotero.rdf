@@ -1,0 +1,541 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/">
+    <bib:Document rdf:about="https://www.youtube.com/watch?v=Z7YM-HAz-IY&amp;list=PLhA3b2k8R3t2Ng1WW_7MiXeh1pfQJQi_P">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_52"/>
+        <dc:subject>Sound processing</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.youtube.com/watch?v=Z7YM-HAz-IY&amp;list=PLhA3b2k8R3t2Ng1WW_7MiXeh1pfQJQi_P</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-01-06 13:23:38</dcterms:dateSubmitted>
+        <dc:title>(26) DSP Background - Deep Learning for Audio Classification p.1 - YouTube</dc:title>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_52">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.youtube.com/watch?v=Z7YM-HAz-IY&amp;list=PLhA3b2k8R3t2Ng1WW_7MiXeh1pfQJQi_P</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-01-06 13:23:41</dcterms:dateSubmitted>
+        <dc:title>(26) DSP Background - Deep Learning for Audio Classification p.1 - YouTube</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://medium.com/syncedreview/what-does-broken-sound-like-first-ever-audio-dataset-of-malfunctioning-industrial-machines-b4f8f6d81dd7">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Medium</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>Synced</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_54"/>
+        <dc:subject>Dataset</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://medium.com/syncedreview/what-does-broken-sound-like-first-ever-audio-dataset-of-malfunctioning-industrial-machines-b4f8f6d81dd7</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2019-10-01T18:07:27.987Z</dc:date>
+        <dcterms:dateSubmitted>2020-01-06 16:04:52</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <dcterms:abstract>Researchers have proposed a similar, sound-based technique for identifying malfunctioning industrial robots on a factory floor.</dcterms:abstract>
+        <dc:title>What Does ‘Broken’ Sound Like? First-Ever Audio Dataset of Malfunctioning Industrial Machines</dc:title>
+        <z:shortTitle>What Does ‘Broken’ Sound Like?</z:shortTitle>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_54">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://medium.com/syncedreview/what-does-broken-sound-like-first-ever-audio-dataset-of-malfunctioning-industrial-machines-b4f8f6d81dd7</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-01-06 16:04:54</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.ntt-review.jp/archive/ntttechnical.php?contents=ntr201708fa5.html">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_56"/>
+        <dc:subject>Background noise</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ntt-review.jp/archive/ntttechnical.php?contents=ntr201708fa5.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-01-06 20:16:55</dcterms:dateSubmitted>
+        <dc:title>Anomaly Detection Technique in Sound to Detect Faulty Equipment | NTT Technical Review</dc:title>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_56">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ntt-review.jp/archive/ntttechnical.php?contents=ntr201708fa5.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-01-06 20:16:58</dcterms:dateSubmitted>
+        <dc:title>Anomaly Detection Technique in Sound to Detect Faulty Equipment | NTT Technical Review</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Recording rdf:about="https://www.youtube.com/watch?v=MhOdbtPhbLU">
+        <z:itemType>videoRecording</z:itemType>
+        <dc:subject>Sound processing</dc:subject>
+        <dc:subject>Librosa</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.youtube.com/watch?v=MhOdbtPhbLU</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-01-06 21:47:34</dcterms:dateSubmitted>
+        <z:libraryCatalog>YouTube</z:libraryCatalog>
+        <z:runningTime>18:10</z:runningTime>
+        <dc:title>Librosa  Audio and Music Signal Analysis in Python | SciPy 2015 | Brian McFee</dc:title>
+    </bib:Recording>
+    <bib:Document rdf:about="https://woodyworld.com/nl/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Woody Official</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_59"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://woodyworld.com/nl/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-01-09 11:38:52</dcterms:dateSubmitted>
+        <z:language>nl</z:language>
+        <dcterms:abstract>Woody brengt kwalitatieve slaapkledij in hippe kleuren voor baby’s, kinderen en volwassenen. De kreeft, de olifant en de bij nemen jong en oud mee naar dromenland.</dcterms:abstract>
+        <dc:title>Woody pyjama’s, nachtkleding &amp; homewear</dc:title>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_59">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://woodyworld.com/nl/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-01-09 11:38:56</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://inthepocket.com/blog/2019/in-the-pocket-to-collaborate-with-pajama-brand-woody">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>In The Pocket</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pocket</foaf:surname>
+                        <foaf:givenName>In The</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_61"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://inthepocket.com/blog/2019/in-the-pocket-to-collaborate-with-pajama-brand-woody</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>Copyright ©2020 In The Pocket.</dc:rights>
+        <dc:date>2020-01-09</dc:date>
+        <dcterms:dateSubmitted>2020-01-09 11:39:12</dcterms:dateSubmitted>
+        <z:type>text/html</z:type>
+        <z:language>en</z:language>
+        <dcterms:abstract>In The Pocket and Woody join forces to develop an AR application.</dcterms:abstract>
+        <dc:title>In The Pocket to collaborate with pyjama brand Woody</dc:title>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_61">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://inthepocket.com/blog/2019/in-the-pocket-to-collaborate-with-pajama-brand-woody</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-01-09 11:39:15</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://kaggle.com/snjumaheshwari/secom-detecting-defected-items">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_63"/>
+        <dc:subject>Anomaly algorithmes</dc:subject>
+        <dc:subject>Isolation forest</dc:subject>
+        <dc:subject>Local outlier factor</dc:subject>
+        <dc:subject>One class SVM</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://kaggle.com/snjumaheshwari/secom-detecting-defected-items</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-01-10 20:34:03</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <dcterms:abstract>Using data from UCI SECOM Dataset</dcterms:abstract>
+        <dc:title>SECOM Detecting Defected Items</dc:title>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_63">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.kaggle.com/snjumaheshwari/secom-detecting-defected-items</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-01-10 20:34:08</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.LocalOutlierFactor.html">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_68"/>
+        <dc:subject>Local outlier factor</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.LocalOutlierFactor.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-01-11 16:25:53</dcterms:dateSubmitted>
+        <dc:title>sklearn.neighbors.LocalOutlierFactor — scikit-learn 0.22.1 documentation</dc:title>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_68">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.LocalOutlierFactor.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-01-11 16:25:53</dcterms:dateSubmitted>
+        <dc:title>sklearn.neighbors.LocalOutlierFactor — scikit-learn 0.22.1 documentation</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://towardsdatascience.com/local-outlier-factor-for-anomaly-detection-cc0c770d2ebe">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Medium</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wenig</foaf:surname>
+                        <foaf:givenName>Phillip</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_70"/>
+        <dc:subject>Local outlier factor</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://towardsdatascience.com/local-outlier-factor-for-anomaly-detection-cc0c770d2ebe</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2019-08-01T17:24:06.220Z</dc:date>
+        <dcterms:dateSubmitted>2020-01-11 16:48:59</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <dcterms:abstract>Short summary about the Local Outlier Factor (LOF)</dcterms:abstract>
+        <dc:title>Local Outlier Factor for Anomaly Detection</dc:title>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_70">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://towardsdatascience.com/local-outlier-factor-for-anomaly-detection-cc0c770d2ebe</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-01-11 16:49:02</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="#item_71">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Medium</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wenig</foaf:surname>
+                        <foaf:givenName>Phillip</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_72"/>
+        <dc:subject>Local outlier factor</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://towardsdatascience.com/local-outlier-factor-for-anomaly-detection-cc0c770d2ebe</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2019-08-01T17:24:06.220Z</dc:date>
+        <dcterms:dateSubmitted>2020-01-14 13:45:49</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <dcterms:abstract>Short summary about the Local Outlier Factor (LOF)</dcterms:abstract>
+        <dc:title>Local Outlier Factor for Anomaly Detection</dc:title>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_72">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://towardsdatascience.com/local-outlier-factor-for-anomaly-detection-cc0c770d2ebe</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-01-14 13:45:51</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="#item_73">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_74"/>
+        <dc:subject>Local outlier factor</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.LocalOutlierFactor.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-01-14 13:45:58</dcterms:dateSubmitted>
+        <dc:title>sklearn.neighbors.LocalOutlierFactor — scikit-learn 0.22.1 documentation</dc:title>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_74">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.LocalOutlierFactor.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-01-14 13:45:58</dcterms:dateSubmitted>
+        <dc:title>sklearn.neighbors.LocalOutlierFactor — scikit-learn 0.22.1 documentation</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://towardsdatascience.com/outlier-detection-with-one-class-svms-5403a1a1878c">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Medium</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dawson</foaf:surname>
+                        <foaf:givenName>Carl</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_76"/>
+        <dc:subject>One class SVM</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://towardsdatascience.com/outlier-detection-with-one-class-svms-5403a1a1878c</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2019-08-28T14:18:51.384Z</dc:date>
+        <dcterms:dateSubmitted>2020-01-14 13:46:20</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <dcterms:abstract>Don’t balance that dataset just yet</dcterms:abstract>
+        <dc:title>Outlier Detection with One-Class SVMs</dc:title>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_76">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://towardsdatascience.com/outlier-detection-with-one-class-svms-5403a1a1878c</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-01-14 13:46:23</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.processingmagazine.com/process-control-automation/article/15587140/predictive-maintenance-with-airborne-sound-analysis">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Processing Magazine</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_78"/>
+        <dc:subject>Predictive maintenance</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.processingmagazine.com/process-control-automation/article/15587140/predictive-maintenance-with-airborne-sound-analysis</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>Sep 11th, 2017</dc:date>
+        <dcterms:dateSubmitted>2020-01-14 13:49:41</dcterms:dateSubmitted>
+        <z:language>en-us</z:language>
+        <dcterms:abstract>Prevent machinery breakdown with acoustic condition monitoring.</dcterms:abstract>
+        <dc:title>Predictive maintenance with airborne sound analysis</dc:title>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_78">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.processingmagazine.com/process-control-automation/article/15587140/predictive-maintenance-with-airborne-sound-analysis</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-01-14 13:49:46</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://kaggle.com/shivamb/semi-supervised-classification-using-autoencoders">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_80"/>
+        <dc:subject>Autoencoder</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://kaggle.com/shivamb/semi-supervised-classification-using-autoencoders</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-01-15 19:50:12</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <dcterms:abstract>Using data from multiple data sources</dcterms:abstract>
+        <dc:title>Semi Supervised Classification using AutoEncoders</dc:title>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_80">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.kaggle.com/shivamb/semi-supervised-classification-using-autoencoders</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-01-15 19:50:15</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://npm.taobao.org/package/justgage">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_84"/>
+        <dc:subject>Interface</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://npm.taobao.org/package/justgage</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-01-17 14:49:25</dcterms:dateSubmitted>
+        <dc:title>Package - justgage</dc:title>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_84">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://npm.taobao.org/package/justgage</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-01-17 14:49:30</dcterms:dateSubmitted>
+        <dc:title>Package - justgage</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Recording rdf:about="https://www.youtube.com/watch?v=fMqL5vckiU0&amp;list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf">
+        <z:itemType>videoRecording</z:itemType>
+        <dc:subject>Sound processing</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.youtube.com/watch?v=fMqL5vckiU0&amp;list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-01-21 19:53:49</dcterms:dateSubmitted>
+        <z:libraryCatalog>YouTube</z:libraryCatalog>
+        <z:runningTime>8:01</z:runningTime>
+        <dcterms:abstract>In this video, I introduce the &quot;Deep Learning (for Audio) with Python&quot; series. I discuss its learning goals, contents and the prerequisites necessary to follow it.
+
+Deep Learning for Audio with Python GitHub (you'll find code and slides here):
+https://github.com/musikalkemist/Deep...
+
+Video slides:
+https://github.com/musikalkemist/Deep...
+
+Melodrive
+https://melodrive.com/
+
+Valerio's Linkedin
+https://www.linkedin.com/in/valeriove...
+
+Valerio's Twitter
+https://twitter.com/musikalkemist</dcterms:abstract>
+        <dc:title>1- Deep Learning (for Audio) with Python: Course Overview</dc:title>
+        <z:shortTitle>1- Deep Learning (for Audio) with Python</z:shortTitle>
+    </bib:Recording>
+    <bib:Document rdf:about="https://www.reddit.com/r/Python/comments/elb099/im_starting_a_free_youtube_course_called_deep/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>reddit</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_87"/>
+        <dc:subject>Sound processing</dc:subject>
+        <dc:subject>Community</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.reddit.com/r/Python/comments/elb099/im_starting_a_free_youtube_course_called_deep/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-01-21 20:01:30</dcterms:dateSubmitted>
+        <z:language>en-US</z:language>
+        <dcterms:abstract>578 votes and 76 comments so far on Reddit</dcterms:abstract>
+        <dc:title>r/Python - I’m starting a free YouTube course called “Deep Learning (for Audio) with Python”</dc:title>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_87">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.reddit.com/r/Python/comments/elb099/im_starting_a_free_youtube_course_called_deep/?utm_medium=android_app&amp;utm_source=share</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-01-21 20:01:33</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Collection rdf:about="#collection_7">
+        <dc:title>Sessie woody</dc:title>
+        <dcterms:hasPart rdf:resource="https://woodyworld.com/nl/"/>
+        <dcterms:hasPart rdf:resource="https://inthepocket.com/blog/2019/in-the-pocket-to-collaborate-with-pajama-brand-woody"/>
+    </z:Collection>
+</rdf:RDF>
